@@ -2,5 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Week 5 - MidTerm/salary_predictor" vcs="Git" />
   </component>
 </project>
